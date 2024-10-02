@@ -60,7 +60,7 @@
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krv006&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=krv006&theme=tokyonight&hide_border=true" alt="Rustambek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustambekToirov&theme=tokyonight&hide_border=true" alt="Rustambek">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=krv006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
